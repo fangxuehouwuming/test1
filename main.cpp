@@ -10,4 +10,6 @@ int main() {
     std::cout << "jb";
     std::cout<<"ddd";
     std::cout<<"d";
+    std::cout<<"last"<<std::endl;
+    std::cout<<"dd"<<std::endl;
 }
