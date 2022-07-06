@@ -8,4 +8,6 @@ int main() {
     std::cout << "jb";
     std::cout << "jb";   
     std::cout << "jb";
+    std::cout<<"ddd";
+    std::cout<<"d";
 }
