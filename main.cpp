@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     std::cout<<"Hello World!"<<std::endl;
@@ -10,4 +11,6 @@ int main() {
     std::cout << "jb";
     std::cout<<"ddd";
     std::cout<<"d";
+
+    cout << "day day up";
 }
